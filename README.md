@@ -2,4 +2,6 @@
 
 En este taller trabajamos
 - Instalación de Git y configuración.
--  nueva linia
+-
+-
+-
